@@ -1,0 +1,6 @@
+[submodule "backendBaseDatos-.NET"]
+	path = backendBaseDatos-.NET
+	url = https://github.com/IgnacioPerez98/backendBaseDatos-.NET.git
+[submodule "frontendangular"]
+	path = frontendangular
+	url = https://github.com/IgnacioPerez98/frontendangular.git
