@@ -12,3 +12,11 @@ git clone --recurse-submodules https://github.com/IgnacioPerez98/Obligatorio-BBD
 #### Correr Docker 
 * Tener docker abierto
 * En la raiz ejecutar : docker compose up -d
+
+##### Usuario Comun 
+nachopp98@gmail.com
+clave1
+
+##### Usuario Administrador
+admin@correo.ucu
+admin
