@@ -2,7 +2,7 @@
 
 * Lucas Alegre
 * Nicolas Rodriguez
-* Ignacion Perez
+* Ignacio Perez
 
 
 #### Clonar el Proyecto
